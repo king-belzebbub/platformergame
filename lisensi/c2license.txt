@@ -1,0 +1,9 @@
+﻿License type: PERSONAL
+Product: Construct 2
+Licensed to: coolguy
+Email: coolguy@gmail.com
+Comment: With best wishes from Figgler [mrfiggler@gmail.com]
+Timestamp: 1695587663
+Hash: ABC56780B4EC686F730AA67F6454814B767C81C29CD31455
+
+This is PRIVATE license. Please TURN OFF "UPDATE CHECKING" in C2 preferences BEFORE USE!!!
